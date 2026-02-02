@@ -51,11 +51,11 @@ b.  KCL:
 ## CALCULATION:
 
 a.   KVL:
- ![alt text](photo_3_2026-02-02_20-45-41.jpg)
 
+![alt text](photo_4_2026-02-02_20-45-41.jpg)
 
 b.  KCL:
-![alt text](photo_4_2026-02-02_20-45-41.jpg)
+ ![alt text](photo_3_2026-02-02_20-45-41.jpg)
 
 
 
