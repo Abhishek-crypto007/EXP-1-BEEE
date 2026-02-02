@@ -62,11 +62,8 @@ b.  KCL:
 ## TABULATION:
 
 a.   KVL:
- ![alt text](photo_2_2026-02-02_20-45-41.jpg)
-
-
+![alt text](photo_2_2026-02-02_20-45-41.jpg)
 b.  KCL:
-
 ![alt text](photo_1_2026-02-02_20-45-41.jpg)
 
 ## RESULT:
